@@ -22,8 +22,8 @@ The following descriptions of the 9 variables in the dataset are taken from the 
 
 ### Methodology
 
-Each R script will generate the respective plot as required inthe assignment. However, in order to run the file as it exists in the repository, the working directory stated at the beginning of the four files needs to be adjusted so that it reflects the environment where the files reside. In order to accomplish this task, the files will need to be opened with a text editor and the required changes made.
+Each R script will generate the respective plot as required in the assignment. However, in order to run the file as it exists in the repository, the working directory stated at the beginning of the four files needs to be adjusted so that it reflects the environment where the files reside. In order to accomplish this task, the files will need to be opened with a text editor and the required changes made.
 
-The script will download the data from the website url where the data currently exists, unzip the data file and then extract the data necessary for the assignment. Once extracted the data is converted into the correct format and the repsective plots are executed. Each script is a stand alone program to go get the data and execute the respective plot.
+The script will download the data from the website url where the data currently exists, unzip the data file and then extract the data necessary for the assignment. Once extracted the data is converted into the correct format and the respective code for to create the plots is executed. Each script is a stand alone program to get the data and create the respective plot.
 
 The assignment description is taken for the instructions for the assignment which is available at https://www.coursera.org/learn/exploratory-data-analysis/peer/ylVFo/course-project-1.
