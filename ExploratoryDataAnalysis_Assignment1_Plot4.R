@@ -1,6 +1,6 @@
 # Exploratory Data Analysis
 # Coursera Data Science specialization
-# Assignment #1  Plot 1
+# Assignment #1  Plot 4
 # Prepared by skewdlogix
 # April 14, 2017
 
